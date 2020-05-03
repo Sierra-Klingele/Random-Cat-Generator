@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    width: 100%;
+
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    background-color: rgb(155, 233, 226);
+    text-align: center;
+    align-items: center;
+    
+}
+
+h1 {
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+
+.cat-photo {
+    height: 10em;
+    width: 10em;
+    border: 1px black solid;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.click {
+    padding-top: 46%;
+}
